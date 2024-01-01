@@ -5,10 +5,10 @@ I also push the Kamus Alay, the dictionary that consist slang and its formal for
 ...
 
 How to use it?
-just simply upload the .ipynb file into google colab
+1. just simply upload the .ipynb file into google colab
 
-change the runtime type into GPU
+2. change the runtime type into GPU
 
-upload the dataset and dictionary
+3. upload the dataset and dictionary
 
-run
+4. run
